@@ -4,4 +4,4 @@ Projeto para aprendizado usando o framework PHP - Laravel. Nesse projeto foi des
 
 Foi aplicado conceito de _migrations_, _seeds_, _factories_, interação com banco relacional, rotas, _requests_, _model_ _views_ e _controller_ (MVC). 
 
-Projeto desenvolvido somente para aprendizado de PHP usando o framework Laravel.
+
